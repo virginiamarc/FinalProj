@@ -91,16 +91,14 @@ You can view the deployed version here:
 
 ## 📸 Screenshots
 
-_Add screenshots here once you upload them to the repo._
+### Login Page
+![Login Page](screenshots/login.png)
 
-Example:
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-```
-/screenshots/
-    login.png
-    dashboard.png
-    table-view.png
-```
+### Sales Table View
+![Table View](screenshots/sale_record_view.png)
 
 ---
 
