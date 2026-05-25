@@ -1,16 +1,18 @@
-# 📊 Sales Records Management System
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-  
+<h1 align="center">📊 Sales Records Management System</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1O-5F2JeMQtqgrC6R2p3mv-5b__VW6ieG/view?usp=sharing" target="_blank">
+    <strong>▶️ Watch the Full CRUD Demo</strong>
+  </a>
+</p>
+
 A lightweight PHP/MySQL CRUD application built to demonstrate backend logic, database interaction, and clean UI structure. This project was developed as part of COP 2836 — Database‑Driven Web Programming.
-
----
-
-## 🎥 Video Demo
-Watch the full CRUD workflow here:
-
-[▶️ Watch Demo](https://drive.google.com/file/d/1O-5F2JeMQtqgrC6R2p3mv-5b__VW6ieG/view?usp=sharing)
 
 ---
 
