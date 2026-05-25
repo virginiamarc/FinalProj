@@ -1,4 +1,8 @@
-  # 📊 Sales Records Management System  
+# 📊 Sales Records Management System
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  
 A lightweight PHP/MySQL CRUD application built to demonstrate backend logic, database interaction, and clean UI structure. This project was developed as part of COP 2836 — Database‑Driven Web Programming.
 
 ---
